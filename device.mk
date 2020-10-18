@@ -396,6 +396,7 @@ PRODUCT_PACKAGES += \
     wcnss_service
 
 PRODUCT_PACKAGES += \
+    WifiOverlay \
     hostapd \
     wpa_supplicant \
     wpa_supplicant.conf
