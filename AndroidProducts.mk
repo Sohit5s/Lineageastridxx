@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kuntao.mk
+    $(LOCAL_DIR)/crdroid_kuntao.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kuntao-user \
-    lineage_kuntao-userdebug \
-    lineage_kuntao-eng
+    crdroid_kuntao-user \
+    crdroid_kuntao-userdebug \
+    crdroid_kuntao-eng
