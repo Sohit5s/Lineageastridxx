@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kuntao.mk
+    $(LOCAL_DIR)/corvus_kuntao.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kuntao-user \
-    lineage_kuntao-userdebug \
-    lineage_kuntao-eng
+    corvus_kuntao-user \
+    corvus_kuntao-userdebug \
+    corvus_kuntao-eng
